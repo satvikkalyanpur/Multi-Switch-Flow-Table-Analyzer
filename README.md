@@ -1,8 +1,8 @@
-# COMPUTER NETWORKS SDN Mini-Net Orange Problem 
+# Computer Networks SDN Mini-Net Orange Problem 
 
-### NAME: SATVIK KALYANPUR
-### SRN: PES1UG24CS617
-### SECTION: K
+#### Name: Satvik Kalyanpur
+#### SRN: PES1UG24CS617
+#### Section: K
 
 ## Problem Statement
 
