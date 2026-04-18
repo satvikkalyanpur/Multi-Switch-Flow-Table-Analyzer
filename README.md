@@ -90,6 +90,18 @@ Action   : NORMAL
 
 ---
 
+## Steps for Demonstration
+
+1. ./pox.py forwarding.l2_learning (T1 - /CNMN/pox)
+2. sudo mn --topo linear,3 --mac --switch ovsk --controller=remote (T2 - /CNMN)
+3. pingall
+4. iperf h1 h2
+5. python3 analyzer.py (T3 - /CNMN)
+6. sh ovs-ofctl -O OpenFlow13 add-flow s1 priority=200,icmp,actions=drop
+7. pingall
+
+---
+
 ## Proof of Execution
 See screenshots in /screenshots:
 - pox-controller.png
