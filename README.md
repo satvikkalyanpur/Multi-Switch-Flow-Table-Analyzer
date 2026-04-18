@@ -102,15 +102,12 @@ Action   : NORMAL
 
 ---
 
-## Proof of Execution
-See screenshots in /screenshots:
-- pox-controller.png
-- mininet-pingall.png
-- iperf-result.png
-- flow-table-s1.png
-- analyzer-output.png
-- blocked-scenario.png
-- wireshark-capture.png (optional)
+## Proof of Execution - Screenshots
+
+<img width="1280" height="800" alt="1" src="https://github.com/user-attachments/assets/f8ecb592-5665-459b-83f6-b12ea987ffc5" />
+<img width="1280" height="800" alt="2" src="https://github.com/user-attachments/assets/3794dd3b-bca9-4256-b2ad-51b35f68ecf3" />
+<img width="1280" height="800" alt="3" src="https://github.com/user-attachments/assets/51db52ac-925c-4ce6-984e-cece9e01278e" />
+<img width="1280" height="800" alt="4" src="https://github.com/user-attachments/assets/2df28778-ed4e-49f8-8787-078f968332be" />
 
 ---
 
