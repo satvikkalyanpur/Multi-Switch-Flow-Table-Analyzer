@@ -1,5 +1,3 @@
-#### Name: Satvik Kalyanpur
-
 ## Problem Statement
 
 Multi-Switch Flow Table Analyzer
