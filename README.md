@@ -1,12 +1,8 @@
-# Computer Networks SDN Mini-Net Orange Problem 
-
 #### Name: Satvik Kalyanpur
-#### SRN: PES1UG24CS617
-#### Section: K
 
 ## Problem Statement
 
-Question Number 8: Multi-Switch Flow Table Analyzer
+Multi-Switch Flow Table Analyzer
 
 This project implements an SDN-based Multi-Switch Flow Table Analyzer using Mininet and the POX OpenFlow controller. The objective is to analyze switch flow tables and display rule usage by retrieving flow entries, displaying rule details, identifying active versus unused rules, and updating dynamically in real time.
 
